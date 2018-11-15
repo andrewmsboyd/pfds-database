@@ -1,0 +1,6 @@
+# ignore any plaintext or zip archives
+*.zip
+*.txt
+
+#ignore the subdir that contains misc. files for the project
+sheets-visualizations/
